@@ -32,11 +32,7 @@ Modular synthesis is an extremely rewarding, if somewhat esoteric, hobby, and I 
 
 Wikis are amazing resources, but over time they tend to also become battlegrounds between people with differing opinions - one needs only to see the various articles about moderator problems at Wikipedia itself. I don't think the modular community needs a document dripping with personal pathos. 
 
-Also, given that this project is rather small to start, i should be able to handle any/all proposed changes and act as a final arbiter of submission quality. While yes, this means that this document will always have a tinge of my opinions, I will do my best to be impartial in regards to subjective calls. 
-
-For instance, Behringer has a less-than-sterling reputation among a good chunk of the modular synth community as a whole (I leave the reasons why as a Google exercise for the reader), but they are also indisputibly one of the largest modular manufacturers on the planet; thus, they are listed under the Manufacturers section.
-
-That said, this is hosted on my GitHub repo, so I am Benevolent Dictator by default; if a resource happens to be hosted next to less-than-stellar content (political extremism, hate speech, porn, etc) I am more than willing to keep that resource from getting additional exposure. If you don't like that, please feel free to fork this document and maintain it yourself.
+Also, given that this project is rather small to start, i should be able to handle any/all proposed changes and act as a final arbiter of submission quality. While yes, this means that this document will always have a tinge of my opinions, I will do my best to be impartial in regards to subjective calls. This is hosted on my GitHub repo, so I am Benevolent Dictator by default; if a resource happens to be hosted next to less-than-stellar content (political extremism, hate speech, porn, etc) I am more than willing to keep that resource from getting additional exposure. If you don't like that, please feel free to fork this document and maintain it yourself.
 
 ### I am a musician/content creator/reviewer/artist/synthmaker that works extensively with modular synthesizers. Can I add my projects to this page?
 
@@ -44,16 +40,15 @@ As long as your content is focused primarily on modular synthesis in some form, 
 
 ### i want to add content but am not sure where to add it. Can I make a new section?
 
-Yes, with the caveat that your Benevolent Dictator might adjust your link categorization to better fit within the document. The important thing is your content is linked correctly; correct categorization is secondary and mostly my problem. Please, add your content!
+Yes, with the caveat that your Benevolent Dictator might adjust your link categorization to better fit within the document. The important thing is your content has the correct URL; correct categorization is secondary and mostly my problem. Please, add your content!
 
 ### Hey, Resource XYZ isn't listed! What gives?
 
-Please add it with a pull request! This document is hosted in a public [Github Repo](https://github.com/JoshEikenberry/Modular-Synthesis-Resource-Guide) and is meant to be collaborated and iterated on. Likewise, if you find a typo, dead link, or other formatting issues, please, fix and commit!
+Please add it with a pull request! This document is hosted in a public [Github Repo](https://github.com/JoshEikenberry/MSRG) and is meant to be collaborated and iterated on. Likewise, if you find a typo, dead link, or other formatting issues, please, fix and commit!
 
-If you are unfamiliar with GitHub, it is a site used by many, many, many projects, to host source code and documentation. It allows users to collaborate on projects, such as the MSFRG
+If you are unfamiliar with GitHub, it is a site used by many, many, many projects, to host source code and documentation. It allows for relatively easy documentation collaboration.
 
 Learning how Git and Github work is beyond the scope of this document, but plenty of resources are available online.
-
 
 
 ### This github nonsense is confusing and enraging. Can't i just email you some links I'd like added?
@@ -232,10 +227,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 
 
-
-
-
-
 ---
 
 # Philosophy/Writings/Opinions
@@ -266,13 +257,13 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Vendors/Retail
 
-[Eurorack + Modular Synthesizers - Perfect Circuit](https://www.perfectcircuit.com/eurorack-modular-synths.html)
+[Perfect Circuit](https://www.perfectcircuit.com/eurorack-modular-synths.html)
 
-[Eurorack & Modular Synthesizers | Sweetwater](https://www.sweetwater.com/shop/keyboards-synthesizers/eurorack-modular-synthesizers/)
+[Sweetwater](https://www.sweetwater.com/shop/keyboards-synthesizers/eurorack-modular-synthesizers/)
 
-[Eurorack Modules | Gear4music](https://www.gear4music.com/us/en/synthesizer/Modular/Eurorack-Modules)
+[Gear4Music](https://www.gear4music.com/us/en/synthesizer/Modular/Eurorack-Modules)
 
-[Synthesizers For Sale - New & Used Synths | Reverb](https://reverb.com/c/keyboards-and-synths/synths)
+[Reverb](https://reverb.com/c/keyboards-and-synths/synths)
 
 [Detroit Modular](https://www.detroitmodular.com/)
 
