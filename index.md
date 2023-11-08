@@ -2,7 +2,7 @@ The Modular Synthesis Resource Guide
 
 
 # Table of Contents
-
+ 
  [Introduction](#intro)
  
  [Frequently Asked Questions](#faq)
@@ -32,9 +32,6 @@ The Modular Synthesis Resource Guide
  [Software](#software)
  
  [Miscellaneous](#misc)
- 
-
-
 
 
 ---
@@ -61,9 +58,11 @@ Modular synthesis is an extremely rewarding, if somewhat esoteric, hobby, and I 
 
 -Eik
 
+
 ---
 
 # (Imagined) Frequently Asked Questions <a name="faq"></a>
+
 
 ### Why not a Wiki?
 
@@ -91,7 +90,6 @@ Learning how Git and Github work is beyond the scope of this document, but plent
 ### This github nonsense is confusing and enraging. Can't i just email you some links I'd like added?
 
 Sure. Github isn't the most user friendly interface. Feel free to get in touch at josheikenberry (AT) gmail (DOT) com and I'll add the links for you.
-
 
 
 ---
@@ -190,6 +188,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Earth Modular Society ](https://www.youtube.com/c/earthmodularsociety)
 
+
 ---
 
 # Discord Communities <a name="discord"></a>
@@ -199,6 +198,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Earth Modular Society](https://earthmodularsociety.com/)
 
 [VCV Rack Community Discord](https://discord.gg/wxa89Mh)
+
 
 ---
 
@@ -211,6 +211,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [r/synthesizers on Reddit](https://www.reddit.com/r/synthesizers/)
 
 [VCV Rack Community](https://community.vcvrack.com/)
+
 
 ---
 
@@ -230,11 +231,13 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Sound Synthesis and Sampling - Martin Russ ](https://www.routledge.com/Sound-Synthesis-and-Sampling/Russ/p/book/9780240521053)
 
+
 ---
 
 # Interviews <a name="interviews"></a>
 
 [Interview with Danjel van Tijn from intellijel](https://www.macprovideo.com/article/interview/interview-danjel-van-tijn-from-eurorack-synth-maker-intellijel)
+
 
 ---
 
@@ -243,10 +246,16 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [I Dream of Wires (2014) - IMDb](https://www.imdb.com/title/tt3636334/)
 
 
+---
+
+# Podcasts <a name="podcasts"></a>
+
 
 ---
 
 # Module Manuals/Schematics/DIY/Firmware <a name="diy"></a>
+
+
 
 ---
 
@@ -287,9 +296,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Modular Beat](https://modularbeat.com/)
 
 
-
-
-
 ---
 
 # Vendors/Retail <a name="retail"></a>
@@ -307,7 +313,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Patchwerks](https://www.patchwerks.com/)
 
 
-
 ---
 
 # Software <a name="software"></a>
@@ -319,7 +324,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Audacity](https://www.audacityteam.org/)
 
 
-
 ---
 
 # Miscellaneous <a name="misc"></a>
@@ -327,3 +331,9 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
 
 
+
+
+
+
+---
+end of document. thanks for visiting.
