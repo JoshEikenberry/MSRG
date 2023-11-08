@@ -250,11 +250,24 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Podcasts <a name="podcasts"></a>
 
+[SysEx Dumpster](https://www.sysexdumpster.com/)
+
+[Why We Bleep](https://www.whywebleep.com/whywebleep)
+
+[Patched! modular synth podcast by Tom Davis](https://www.buzzsprout.com/736124)
+
+[The Rat's Nest Podcast](https://podcasts.apple.com/us/podcast/the-rats-nest-podcast/id1506187129)
+
 
 ---
 
 # Module Manuals/Schematics/DIY/Firmware <a name="diy"></a>
 
+[Phazerville Suite for Ornament & Crime ](https://github.com/djphazer/O_C-BenisphereSuite)
+
+[Benisphere Suite for Ornament & Crime ](https://github.com/benirose/O_C-BenisphereSuite)
+
+[Hemisphere Suite for Ornament & Crime ](https://github.com/Chysn/O_C-HemisphereSuite)
 
 
 ---
