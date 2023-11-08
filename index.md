@@ -18,6 +18,8 @@ The Modular Synthesis Resource Guide
  [Interviews](#interviews)
  
  [Documentaries](#documentaries)
+
+ [Podcasts](#podcasts)
  
  [Module Manuals, Schematics, DIY, and Custom Firmware](#diy)
  
