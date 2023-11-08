@@ -98,6 +98,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # YouTube Channels <a name="youtube"></a>
 
+
 [Mark Booth](https://www.youtube.com/@markbooth)
 
 [Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk)
@@ -195,6 +196,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Discord Communities <a name="discord"></a>
 
+
 [Golden Shrimp Guild](https://gsg.live/)
 
 [Earth Modular Society](https://earthmodularsociety.com/)
@@ -205,6 +207,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 ---
 
 # Forums and Subreddits <a name="forums"></a>
+
 
 [MOD WIGGLER Forums](https://www.modwiggler.com/forum/index.php)
 
@@ -218,6 +221,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 ---
 
 # Books <a name="books"></a>
+
 
 [Fred Welsh's Synthesizer Cookbook](http://synthesizer-cookbook.com/)
 
@@ -238,6 +242,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Interviews <a name="interviews"></a>
 
+
 [Interview with Danjel van Tijn from intellijel](https://www.macprovideo.com/article/interview/interview-danjel-van-tijn-from-eurorack-synth-maker-intellijel)
 
 
@@ -245,12 +250,14 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Documentaries <a name="documentaries"></a>
 
+
 [I Dream of Wires (2014) - IMDb](https://www.imdb.com/title/tt3636334/)
 
 
 ---
 
 # Podcasts <a name="podcasts"></a>
+
 
 [SysEx Dumpster](https://www.sysexdumpster.com/)
 
@@ -265,6 +272,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Module Manuals/Schematics/DIY/Firmware <a name="diy"></a>
 
+
 [Phazerville Suite for Ornament & Crime ](https://github.com/djphazer/O_C-BenisphereSuite)
 
 [Benisphere Suite for Ornament & Crime ](https://github.com/benirose/O_C-BenisphereSuite)
@@ -275,6 +283,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 ---
 
 # Equipment Manufacturers <a name="manufacturers"></a>
+
 
 [1010 Music](https://1010music.com/)
 
@@ -292,11 +301,13 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Philosophy/Writings/Opinions <a name="philosophy"></a>
 
+
 [An excellent overview and introduction to the hobby by Mother Dessicant](https://www.modularbias.com/learn/read-designing-your-modular-synthesizer-mother-dessicant/)
 
 ---
 
 # Websites About Modular Synthesis <a name="websites"></a>
+
 
 [Synth Junky](https://www.synthjunky.com/)
 
@@ -315,6 +326,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Vendors/Retail <a name="retail"></a>
 
+
 [Perfect Circuit](https://www.perfectcircuit.com/eurorack-modular-synths.html)
 
 [Sweetwater](https://www.sweetwater.com/shop/keyboards-synthesizers/eurorack-modular-synthesizers/)
@@ -332,6 +344,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Software <a name="software"></a>
 
+
 [VCV Rack](https://vcvrack.com/)
 
 [Bitwig Studio](https://www.bitwig.com/overview/)
@@ -343,10 +356,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Miscellaneous <a name="misc"></a>
 
+
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
-
-
-
 
 
 
