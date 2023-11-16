@@ -191,6 +191,31 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Earth Modular Society ](https://www.youtube.com/c/earthmodularsociety)
 
+[ScottMFR](https://www.youtube.com/user/brasscat)
+
+[MAKEN0ISE](https://www.youtube.com/user/MAKEN0ISE)
+
+[Intellijel](https://www.youtube.com/user/intellijel)
+
+[The Tuesday Night Machines](https://www.youtube.com/user/flx04)
+
+[Quincas Moreira Music](https://www.youtube.com/@QuincasMoreira)
+
+[loopop](https://www.youtube.com/channel/UC-RA5BzE_BnZhf5iVdNF1hA)
+
+[r beny](https://www.youtube.com/channel/UC5hhwOVY0lxIn4ELd5ZP1Bw)
+
+[SYNTH ANATOMY](https://www.youtube.com/channel/UCdhsQHBXLpf-qrAVox4fyMA)
+
+[Monotrail](https://www.youtube.com/channel/UCjEIsPm7n8mm8Q10rMhg76g/about)
+
+[SchneidersLaden](https://www.youtube.com/channel/UCOx-1BqVMi4HhnXbmVQ6Gbg/about)
+
+[Lightbath](https://www.youtube.com/channel/UCNcpKG4D0_nxBYwtgD4iA7w/featured)
+
+[Once Upon a Synth](https://www.youtube.com/@onceuponasynth/videos)
+
+[Comparative Irrelevance](https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g)
 
 ---
 
@@ -295,6 +320,15 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [4ms](https://www.4mscompany.com/)
 
+[Stochastic Instruments](https://www.stochasticinstruments.com/)
+
+[Rabid Elephant](https://rabidelephant.com/)
+
+[Pittsburgh Modular](https://pittsburghmodular.com/)
+
+
+
+
 
 
 ---
@@ -339,6 +373,32 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Patchwerks](https://www.patchwerks.com/)
 
+[Control Voltage](https://www.controlvoltage.net/)
+
+[Control Brooklyn](https://www.ctrl-mod.com/)
+
+[THONK](https://www.thonk.co.uk/)
+
+[Signal Sounds](https://www.signalsounds.com/)
+
+[Rubadub](https://rubadub.co.uk/)
+
+[Wiggle Hunt](https://wigglehunt.com/)
+
+[Elevator Sound](https://www.elevatorsound.com/)
+
+[NightLife Electronics](https://nightlife-electronics.com/en-us)
+
+[thomann music](https://www.thomannmusic.com/modular_synthesizers.html)
+
+[modularsquare](https://www.modularsquare.com/)
+
+[Found sound](https://foundsound.com.au/collections/eurorack)
+
+[Clockface Modular](https://en.clockfacemodular.com/)
+
+[AnimatoAudio](https://www.animatoaudio.com/)
+
 
 ---
 
@@ -358,6 +418,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
+
+
 
 
 
