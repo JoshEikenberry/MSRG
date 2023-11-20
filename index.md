@@ -245,6 +245,10 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [VCV Rack Community](https://community.vcvrack.com/)
 
+[Electro-Music.com](https://electro-music.com/forum/forums.html)
+
+
+
 
 ---
 
@@ -266,6 +270,13 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Sound Synthesis and Sampling - Martin Russ ](https://www.routledge.com/Sound-Synthesis-and-Sampling/Russ/p/book/9780240521053)
 
 [Waveform Magazine](https://waveformmagazine.com/)
+
+[Notes on Modular Synthesizers](http://peterelsea.com/Notes%20on%20Modular%20Synthesizers.html)
+
+[Advanced Programming Techniques for Modular Synthesizers - James J clark](https://www.cim.mcgill.ca/~clark/nordmodularbook/nordmodularbook.pdf)
+
+[Nord Modular G2 Workshops and Tutorials - rhordijk](https://rhordijk.home.xs4all.nl/G2Pages/)
+
 
 
 ---
@@ -308,6 +319,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Benisphere Suite for Ornament & Crime ](https://github.com/benirose/O_C-BenisphereSuite)
 
 [Hemisphere Suite for Ornament & Crime ](https://github.com/Chysn/O_C-HemisphereSuite)
+
+[Nord Modular G2 Manual](https://www.nordkeyboards.com/sites/default/files/files/downloads/manuals/nord-modular-G2/Nord%20Modular%20G2%20English%20User%20Manual%20v1.4%20Edition%201.4x.pdf)
 
 
 ---
@@ -1422,6 +1435,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Syntorial](https://www.syntorial.com/)
 
+[Mailing List Archive of Nord Modular G2 patches](https://rhordijk.home.xs4all.nl/G2Patches/)
 
 ---
 
