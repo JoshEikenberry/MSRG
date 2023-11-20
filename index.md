@@ -217,6 +217,9 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Comparative Irrelevance](https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g)
 
+[Strange Patching by MAKEN0ISE](https://www.youtube.com/playlist?list=PL0jGFC0FWQshL1PmgwPU09gnTZ5iqe5_E)
+
+
 ---
 
 # Discord Communities <a name="discord"></a>
@@ -1007,7 +1010,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [circlefade](https://www.circlefade.com/)
 
-
 [circuits](https://www.circuits.la/)
 
 [clank](https://www.clank.eu/)
@@ -1123,7 +1125,6 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [livestockelectronics](https://www.livestockelectronics.com/)
 
 [makenoisemusic](https://www.makenoisemusic.com/)
-
 
 [makeproaudio](https://www.makeproaudio.com/)
 
@@ -1336,14 +1337,13 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [zlobmodular](https://zlobmodular.com/)
 
 
-
-
 ---
 
 # Philosophy/Writings/Opinions <a name="philosophy"></a>
 
 
 [An excellent overview and introduction to the hobby by Mother Dessicant](https://www.modularbias.com/learn/read-designing-your-modular-synthesizer-mother-dessicant/)
+
 
 ---
 
