@@ -265,6 +265,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Sound Synthesis and Sampling - Martin Russ ](https://www.routledge.com/Sound-Synthesis-and-Sampling/Russ/p/book/9780240521053)
 
+[Waveform Magazine](https://waveformmagazine.com/)
+
 
 ---
 
@@ -1417,6 +1419,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 [Bitwig Studio](https://www.bitwig.com/overview/)
 
 [Audacity](https://www.audacityteam.org/)
+
+[Syntorial](https://www.syntorial.com/)
 
 
 ---
