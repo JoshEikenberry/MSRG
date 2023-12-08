@@ -137,6 +137,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Voltage Control Lab](https://www.youtube.com/@voltagecontrollab)
 
+[Michele Giletto](https://www.youtube.com/channel/UCejZ-vxUGFtIXj0MoxabS7g)
+
 [Ihor](https://www.youtube.com/@IhorMedia)
 
 [White Noises ](https://www.youtube.com/@WhiteNoises)
