@@ -1443,6 +1443,7 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Miscellaneous <a name="misc"></a>
 
+[Famous Sounds on SynthMania](https://synthmania.com/famous-sounds/)
 
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
 
