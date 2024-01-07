@@ -324,6 +324,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Nord Modular G2 Manual](https://www.nordkeyboards.com/sites/default/files/files/downloads/manuals/nord-modular-G2/Nord%20Modular%20G2%20English%20User%20Manual%20v1.4%20Edition%201.4x.pdf)
 
+[Synth Modes](https://synthmodes.com/)
+
 
 ---
 
