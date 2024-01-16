@@ -1383,6 +1383,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [New York Modular Society](https://nyms.love/)
 
+[New York Synth Library](https://synthlibrarynyc.org/Library)
+
 
 ---
 
