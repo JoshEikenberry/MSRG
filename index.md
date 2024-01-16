@@ -1381,6 +1381,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Modular Beat](https://modularbeat.com/)
 
+[New York Modular Society](https://nyms.love/)
+
 
 ---
 
