@@ -221,6 +221,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Strange Patching by MAKEN0ISE](https://www.youtube.com/playlist?list=PL0jGFC0FWQshL1PmgwPU09gnTZ5iqe5_E)
 
+[Earther](https://www.youtube.com/@Earther._)
+
 
 ---
 
