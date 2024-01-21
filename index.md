@@ -223,6 +223,12 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Earther](https://www.youtube.com/@Earther._)
 
+[Opitz](https://www.youtube.com/@opitz030)
+
+[Richard Easel](https://www.youtube.com/@richardeasel)
+
+[thelastdoreo](https://www.youtube.com/@thelastdoreo)
+
 
 ---
 
