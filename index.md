@@ -99,136 +99,135 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 # YouTube Channels <a name="youtube"></a>
 
 
-[Mark Booth](https://www.youtube.com/@markbooth)
-
-[Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk)
-
-[Audiorial](https://www.youtube.com/@Audiorial)
-
-[warbasse](https://www.youtube.com/@thismeanswarbasse)
-
-[Niven](https://www.youtube.com/@nivenofficial)
-
-[Tony deKaro](https://www.youtube.com/@TonydeKaro)
-
-[Turbo Tambourine](https://www.youtube.com/@turbotambourine1410)
-
 [92Jelani](https://www.youtube.com/@92JelaniMusic)
-
-[ModularBias](https://www.youtube.com/@modularbias)
-
-[The Modular Clubhouse](https://www.youtube.com/@TheModularClubhouse)
-
-[Hermbot](https://www.youtube.com/@Hermbot)
-
-[Making Sound Machines](https://www.youtube.com/@MakingSoundMachines)
-
-[Martin Goldmann](https://www.youtube.com/@martingoldmannmusic)
-
-[LOOK MUM NO COMPUTER ](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
-
-[Detroit-Berlin](https://www.youtube.com/@Detroit-Berlin)
-
-[Sound + Voltage](https://www.youtube.com/@SoundVoltage)
-
-[Sarah Belle Reid](https://www.youtube.com/@sarahbellereid)
-
-[James Cigler](https://www.youtube.com/@jamescigler)
-
-[Voltage Control Lab](https://www.youtube.com/@voltagecontrollab)
-
-[Michele Giletto](https://www.youtube.com/channel/UCejZ-vxUGFtIXj0MoxabS7g)
-
-[Ihor](https://www.youtube.com/@IhorMedia)
-
-[White Noises ](https://www.youtube.com/@WhiteNoises)
-
-[Colin Benders ](https://www.youtube.com/@ColinBenders)
-
-[SynthDad ](https://www.youtube.com/@SynthDad)
-
-[mylarmelodies ](https://www.youtube.com/@mylarmelodies)
 
 [Audioreakt ](https://www.youtube.com/@audioreakt)
 
-[Omri Cohen ](https://www.youtube.com/@OmriCohen-Music)
+[Audiorial](https://www.youtube.com/@Audiorial)
 
-[Modular Fungi ](https://www.youtube.com/@MyModularMusic)
+[Blush Response ](https://www.youtube.com/@blush_response)
 
-[Sebotonin ](https://www.youtube.com/@sebotonin_official)
+[Braintree56 ](https://www.youtube.com/@braintree56)
 
-[Tom Churchill ](https://www.youtube.com/@TomChurchill)
+[BRiES ](https://www.youtube.com/@briesmodular)
 
-[Robots Are Red ](https://www.youtube.com/@RobotsAreRed)
+[Chris Meyer: Learning Modular + Alias Zone ](https://www.youtube.com/@LearningModular)
+
+[Cinematic Laboratory ](https://www.youtube.com/@CinematicLaboratory)
+
+[Colin Benders ](https://www.youtube.com/@ColinBenders)
+
+[Comparative Irrelevance](https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g)
+
+[Detroit-Berlin](https://www.youtube.com/@Detroit-Berlin)
+
+[DivKid ](https://www.youtube.com/@DivKid)
+
+[DUNGEON MUSIC THEATRE ](https://www.youtube.com/@DUNGEONMUSICTHEATRE)
+
+[Earth Modular Society ](https://www.youtube.com/c/earthmodularsociety)
+
+[Earther](https://www.youtube.com/@Earther._)
 
 [EthanJamesMusic ](https://www.youtube.com/@EthanJamesMusic1)
 
 [Flat Round Modular Music ](https://www.youtube.com/@flatroundmodularmusic)
 
-[Chris Meyer: Learning Modular + Alias Zone ](https://www.youtube.com/@LearningModular)
+[Hermbot](https://www.youtube.com/@Hermbot)
 
-[DUNGEON MUSIC THEATRE ](https://www.youtube.com/@DUNGEONMUSICTHEATRE)
-
-[The Unperson ](https://www.youtube.com/@TheUnperson)
-
-[Molten Music Technology ](https://www.youtube.com/@MoltenMusicTech)
-
-[Braintree56 ](https://www.youtube.com/@braintree56)
-
-[Cinematic Laboratory ](https://www.youtube.com/@CinematicLaboratory)
-
-[Blush Response ](https://www.youtube.com/@blush_response)
-
-[Stazma ](https://www.youtube.com/@Stazma)
-
-[MusicRadar Tech ](https://www.youtube.com/@MusicRadarTech)
-
-[BRiES ](https://www.youtube.com/@briesmodular)
-
-[Ricky Tinez ](https://www.youtube.com/@RickyTinez)
-
-[Red Means Recording ](https://www.youtube.com/@RedMeansRecording)
-
-[DivKid ](https://www.youtube.com/@DivKid)
-
-[Earth Modular Society ](https://www.youtube.com/c/earthmodularsociety)
-
-[ScottMFR](https://www.youtube.com/user/brasscat)
-
-[MAKEN0ISE](https://www.youtube.com/user/MAKEN0ISE)
+[Ihor](https://www.youtube.com/@IhorMedia)
 
 [Intellijel](https://www.youtube.com/user/intellijel)
 
-[The Tuesday Night Machines](https://www.youtube.com/user/flx04)
-
-[Quincas Moreira Music](https://www.youtube.com/@QuincasMoreira)
-
-[loopop](https://www.youtube.com/channel/UC-RA5BzE_BnZhf5iVdNF1hA)
-
-[r beny](https://www.youtube.com/channel/UC5hhwOVY0lxIn4ELd5ZP1Bw)
-
-[SYNTH ANATOMY](https://www.youtube.com/channel/UCdhsQHBXLpf-qrAVox4fyMA)
-
-[Monotrail](https://www.youtube.com/channel/UCjEIsPm7n8mm8Q10rMhg76g/about)
-
-[SchneidersLaden](https://www.youtube.com/channel/UCOx-1BqVMi4HhnXbmVQ6Gbg/about)
+[James Cigler](https://www.youtube.com/@jamescigler)
 
 [Lightbath](https://www.youtube.com/channel/UCNcpKG4D0_nxBYwtgD4iA7w/featured)
 
+[LOOK MUM NO COMPUTER ](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
+
+[loopop](https://www.youtube.com/channel/UC-RA5BzE_BnZhf5iVdNF1hA)
+
+[MAKEN0ISE](https://www.youtube.com/user/MAKEN0ISE)
+
+[Making Sound Machines](https://www.youtube.com/@MakingSoundMachines)
+
+[Mark Booth](https://www.youtube.com/@markbooth)
+
+[Martin Goldmann](https://www.youtube.com/@martingoldmannmusic)
+
+[Michele Giletto](https://www.youtube.com/channel/UCejZ-vxUGFtIXj0MoxabS7g)
+
+[Modular Fungi ](https://www.youtube.com/@MyModularMusic)
+
+[ModularBias](https://www.youtube.com/@modularbias)
+
+[Molten Music Technology ](https://www.youtube.com/@MoltenMusicTech)
+
+[Monotrail Tech Talk](https://www.youtube.com/@MonotrailTechTalk)
+
+[Monotrail](https://www.youtube.com/channel/UCjEIsPm7n8mm8Q10rMhg76g/about)
+
+[MusicRadar Tech ](https://www.youtube.com/@MusicRadarTech)
+
+[mylarmelodies ](https://www.youtube.com/@mylarmelodies)
+
+[Niven](https://www.youtube.com/@nivenofficial)
+
+[Omri Cohen ](https://www.youtube.com/@OmriCohen-Music)
+
 [Once Upon a Synth](https://www.youtube.com/@onceuponasynth/videos)
-
-[Comparative Irrelevance](https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g)
-
-[Strange Patching by MAKEN0ISE](https://www.youtube.com/playlist?list=PL0jGFC0FWQshL1PmgwPU09gnTZ5iqe5_E)
-
-[Earther](https://www.youtube.com/@Earther._)
 
 [Opitz](https://www.youtube.com/@opitz030)
 
+[Quincas Moreira Music](https://www.youtube.com/@QuincasMoreira)
+
+[r beny](https://www.youtube.com/channel/UC5hhwOVY0lxIn4ELd5ZP1Bw)
+
+[Red Means Recording ](https://www.youtube.com/@RedMeansRecording)
+
 [Richard Easel](https://www.youtube.com/@richardeasel)
+
+[Ricky Tinez ](https://www.youtube.com/@RickyTinez)
+
+[Robots Are Red ](https://www.youtube.com/@RobotsAreRed)
+
+[Sarah Belle Reid](https://www.youtube.com/@sarahbellereid)
+
+[SchneidersLaden](https://www.youtube.com/channel/UCOx-1BqVMi4HhnXbmVQ6Gbg/about)
+
+[ScottMFR](https://www.youtube.com/user/brasscat)
+
+[Sebotonin ](https://www.youtube.com/@sebotonin_official)
+
+[Sound + Voltage](https://www.youtube.com/@SoundVoltage)
+
+[Stazma ](https://www.youtube.com/@Stazma)
+
+[Strange Patching by MAKEN0ISE](https://www.youtube.com/playlist?list=PL0jGFC0FWQshL1PmgwPU09gnTZ5iqe5_E)
+
+[SYNTH ANATOMY](https://www.youtube.com/channel/UCdhsQHBXLpf-qrAVox4fyMA)
+
+[SynthDad ](https://www.youtube.com/@SynthDad)
+
+[The Modular Clubhouse](https://www.youtube.com/@TheModularClubhouse)
+
+[The Tuesday Night Machines](https://www.youtube.com/user/flx04)
+
+[The Unperson ](https://www.youtube.com/@TheUnperson)
 
 [thelastdoreo](https://www.youtube.com/@thelastdoreo)
 
+[Tom Churchill ](https://www.youtube.com/@TomChurchill)
+
+[Tony deKaro](https://www.youtube.com/@TonydeKaro)
+
+[Turbo Tambourine](https://www.youtube.com/@turbotambourine1410)
+
+[Voltage Control Lab](https://www.youtube.com/@voltagecontrollab)
+
+[warbasse](https://www.youtube.com/@thismeanswarbasse)
+
+[White Noises ](https://www.youtube.com/@WhiteNoises)
 
 ---
 
@@ -343,313 +342,19 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 # Equipment Manufacturers <a name="manufacturers"></a>
 
-[20objects](http://20objects.com/)
-
-[analogcraftsman](http://analogcraftsman.com/)
-
-[analoguerealities](http://analoguerealities.com/)
-
-[artfortheears](http://artfortheears.com/)
-
-[audiophilecircuitsleague](http://audiophilecircuitsleague.com/)
-
-[blacet](http://blacet.com/)
-
-[blackmarketmodular](http://blackmarketmodular.com/)
-
-[brokensilicon](http://brokensilicon.com/)
-
-[cherokeestreetelectric](http://cherokeestreetelectric.com/)
-
-[clacktronics](http://clacktronics.co.uk/)
-
-[clsound](http://clsound.com/)
-
-[cpurecords](http://cpurecords.net/)
-
-[curetronic](http://curetronic.com/)
-
-[detroitunderground](http://detroitunderground.net/)
-
-[dobozdio](http://doboz.audio/)
-
-[dpw.se](http://dpw.se/)
-
-[endtimesmodular](http://endtimesmodular.com/)
-
-[entrospec](http://entrospec.co.uk/)
-
-[flame.fortschritt-musik](http://flame.fortschritt-musik.de/)
-
-[fpb-synths](http://fpb-synths.de/)
-
-[futuresoundsystems](http://futuresoundsystems.co.uk/)
-
-[gezeiten-modular](http://gezeiten-modular.com/)
-
-[godsbox](http://godsbox.co.uk/)
-
-[goltsynth](http://goltsynth.com/)
-
-[ijfritz.byethost4](http://ijfritz.byethost4.com/)
-
-[kl-module](http://kl-module.de/)
-
-[l-1](http://l-1.su/)
-
-[ladikdik](http://ladik.ladik.eu/)
-
-[leipzigwest](http://leipzigwest.org/)
-
-[lividinstruments](http://lividinstruments.com/)
-
-[lnx.madroosterlab](http://lnx.madroosterlab.com/)
-
-[lowgain-audio](http://lowgain-audio.com/)
-
-[masf.figity](http://masf.figity.com/)
-
-[mayer-emi](http://mayer-emi.at/)
-
-[mfberlin](http://mfberlin.de/)
-
-[modular.monokom](http://modular.monokom.org/)
-
-[modularanalog](http://modularanalog.com/)
-
-[mungo](http://mungo.com.au/)
-
-[musicfromouterspace](http://musicfromouterspace.com/)
-
-[naad.tokyo](http://naad.tokyo/)
-
-[nabla-instruments](http://nabla-instruments.com/)
-
-[neutron-sound](http://neutron-sound.com/)
-
-[nexusinstruments](http://nexusinstruments.net/)
-
-[numericalaudio](http://numericalaudio.com/)
-
-[oscillosaurus](http://oscillosaurus.com/)
-
-[patchblocks](http://patchblocks.com/)
-
-[patchingpanda](http://patchingpanda.com/)
-
-[ph.neutreee](http://ph.neutre.free.fr/)
-
-[pulplogic](http://pulplogic.com/)
-
-[quicco](http://quicco.co.jp/)
-
-[rarewaves](http://rarewaves.net/)
-
-[ratkingmodular](http://ratkingmodular.com/)
-
-[schenkwork.storenvy](http://schenkwork.storenvy.com/)
-
-[segmentum.space](http://segmentum.space/)
-
-[sfeodioee](http://sfeo.audio.free.fr/)
-
-[sound-force](http://sound-force.nl/)
-
-[sputnik-modular](http://sputnik-modular.com/)
-
-[sub-continentaldd](http://sub-continental.com/dd/)
-
-[supercriticalsynthesizers](http://supercriticalsynthesizers.com/)
-
-[synthmallifm](http://synthmall.com/ifm)
-
-[system80](http://system80.net/)
-
-[tiptopaudio](http://tiptopaudio.com/)
-
-[tokyo-tape-music-center](http://tokyo-tape-music-center.xyz/)
-
-[transientmodules](http://transientmodules.com/)
-
-[trouby.bplaced](http://trouby.bplaced.net/)
-
-[tymkrs](http://tymkrs.com/)
-
-[vpme](http://vpme.de/)
-
-[warmstarelectronics](http://warmstarelectronics.com/)
-
-[wiesolator](http://wiesolator.de/)
-
-[winter-modular](http://winter-modular.com/)
-
-[acxsynth](http://www.acxsynth.com/)
-
-[aion-modular](http://www.aion-modular.com/)
-
-[alemanlabs](http://www.alemanlabs.com/)
-
-[analogbytes](http://www.analogbytes.org/)
-
-[antimatteraudio](http://www.antimatteraudio.com/)
-
-[antumbra](http://www.antumbra.eu/)
-
-[arcaico](http://www.arcaico.eu/)
-
-[bartonmusicalcircuits](http://www.bartonmusicalcircuits.com/)
-
-[beast-tek](http://www.beast-tek.com/)
-
-[blackcatpedals](http://www.blackcatpedals.com/)
-
-[buranelectrix](http://www.buranelectrix.com/)
-
-[catoffsystems](http://www.catoffsystems.com/)
-
-[cfmodular](http://www.cfmodular.com/)
-
-[cg-products](http://www.cg-products.de/)
-
-[circuitabbey](http://www.circuitabbey.com/)
-
-[cluboftheknobs](http://www.cluboftheknobs.com/)
-
-[conjuredcircuits](http://www.conjuredcircuits.com/)
-
-[cs80](http://www.cs80.com/)
-
-[cylonix](http://www.cylonix.com/)
-
-[davidhaillant](http://www.davidhaillant.com/)
-
-[dewanatron](http://www.dewanatron.com/)
-
-[dinsync](http://www.dinsync.info/)
-
-[doepfer](http://www.doepfer.de/)
-
-[dtronics](http://www.dtronics.nl/)
-
-[eatyourguitar](http://www.eatyourguitar.com/)
-
-[endangeredaudioresearch](http://www.endangeredaudioresearch.com/)
-
-[eowave](http://www.eowave.com/)
-
-[epochmodular](http://www.epochmodular.net/)
-
-[falafular](http://www.falafular.org/)
-
-[five12](http://www.five12.com/)
-
-[flightofharmony](http://www.flightofharmony.com/)
-
-[folktek](http://www.folktek.com/)
-
-[fonitronik](http://www.fonitronik.de/)
-
-[future-retro](http://www.future-retro.com/)
-
-[gotharman](http://www.gotharman.dk/)
-
-[grpsynthesizer](http://www.grpsynthesizer.it/)
-
-[happynerding](http://www.happynerding.com/)
-
-[hexinverter](http://www.hexinverter.net/)
-
-[hikari-instruments](http://www.hikari-instruments.com/)
-
-[hinton-instruments](http://www.hinton-instruments.co.uk/)
-
-[industrialmusicelectronics](http://www.industrialmusicelectronics.com/)
-
-[klangfeld-synthesizer](http://www.klangfeld-synthesizer.de/)
-
-[livewire-synthesizers](http://www.livewire-synthesizers.com/)
-
-[loudestwarning](http://www.loudestwarning.co.uk/)
-
-[lunar-experience](http://www.lunar-experience.com/)
-
-[megaohmaudio](http://www.megaohmaudio.com/)
-
-[meluinstruments](http://www.meluinstruments.com/)
-
-[metasonix](http://www.metasonix.com/)
-
-[metro-modular](http://www.metro-modular.com/)
-
-[minigorille](http://www.minigorille.com/)
-
-[modcan](http://www.modcan.com/)
-
-[modormusic](http://www.modormusic.com/)
-
-[nobots](http://www.nobots.co.uk/)
-
-[noniandjimJim](http://www.noniandjim.com/Jim/)
-
-[northcoastmodularcollective](http://www.northcoastmodularcollective.com/)
-
-[oakleysound](http://www.oakleysound.com/)
-
-[openmusiclabs](http://www.openmusiclabs.com/)
-
-[orpho](http://www.orpho.de/)
-
-[orthogonaldevices](http://www.orthogonaldevices.com/)
-
-[paratek](http://www.paratek.org/)
-
-[qosmomodular](http://www.qosmomodular.com/)
-
-[radicalfrequencies](http://www.radicalfrequencies.com/)
-
-[razmasynth](http://www.razmasynth.com/)
-
-[rossum-electro](http://www.rossum-electro.com/)
-
-[schippmann-music](http://www.schippmann-music.com/)
-
-[shakmatmodular](http://www.shakmatmodular.com/)
-
-[signalarts](http://www.signalarts.ca/)
-
-[st-modular](http://www.st-modular.com/)
-
-[steadystatefate](http://www.steadystatefate.com/)
-
-[stemmodular](http://www.stemmodular.com/)
-
-[stgsoundlabs](http://www.stgsoundlabs.com/)
-
-[strangesci](http://www.strangesci.com/)
-
-[subconsciousrecords](http://www.subconsciousrecords.com/)
-
-[synthwerks](http://www.synthwerks.com/)
-
-[tellun](http://www.tellun.com/)
-
-[verboselectronics](http://www.verboselectronics.com/)
-
-[westoaklandmusicsystems](http://www.westoaklandmusicsystems.com/)
-
-[wiard](http://www.wiard.com/)
-
-[yusynth](http://www.yusynth.net/)
-
-[www2.thisisnotrocketscience](http://www2.thisisnotrocketscience.nl/)
-
-[xaocdevices](http://xaocdevices.com/)
-
 [1010music](https://1010music.com/)
+
+
 
 [1979](https://1979.ws/)
 
+[20objects](http://20objects.com/)
+
 [256klabs](https://256klabs.com/)
+
+[4mscompany](https://www.4mscompany.com/)
+
+[abstractdata](https://www.abstractdata.biz/)
 
 [abyssdevices](https://abyssdevices.com/)
 
@@ -657,27 +362,87 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [acidraintechnology](https://acidraintechnology.com/)
 
+[acxsynth](http://www.acxsynth.com/)
+
+[addacsystem](https://www.addacsystem.com/)
+
 [afterlateraudio](https://afterlateraudio.com/)
+
+[afterlifelaboratories](https://www.afterlifelaboratories.com/)
+
+[aion-modular](http://www.aion-modular.com/)
 
 [aisynthesis](https://aisynthesis.com/)
 
 [ajhsynth](https://ajhsynth.com/)
 
+[alemanlabs](http://www.alemanlabs.com/)
+
+[alrightdevices](https://www.alrightdevices.com/)
+
+[alyseum](https://www.alyseum.com/)
+
 [amsynths](https://amsynths.co.uk/)
+
+[analogbytes](http://www.analogbytes.org/)
+
+[analogcraftsman](http://analogcraftsman.com/)
 
 [analogordnance](https://analogordnance.com/)
 
+[analoguerealities](http://analoguerealities.com/)
+
+[analogueresearch](https://www.analogueresearch.com/)
+
+[analoguesolutions](https://www.analoguesolutions.com/)
+
+[analoguesystems](https://www.analoguesystems.co.uk/)
+
 [animalfactoryamps](https://animalfactoryamps.com/)
+
+[animodule](https://www.animodule.com/)
+
+[antimatteraudio](http://www.antimatteraudio.com/)
 
 [antonus-synthsen](https://antonus-synths.com/en/)
 
+[antumbra](http://www.antumbra.eu/)
+
+[anyware-instruments](https://www.anyware-instruments.de/)
+
+[aqaelektrix](https://www.aqaelektrix.com/)
+
+[arcaico](http://www.arcaico.eu/)
+
 [arcusaudio](https://arcusaudio.com/)
+
+[arrel-audio](https://www.arrel-audio.com/)
+
+[artfortheears](http://artfortheears.com/)
+
+[arturia](https://www.arturia.com/)
+
+[atomosynth](https://www.atomosynth.net/)
+
+[audiodamage](https://www.audiodamage.com/)
 
 [audiogearobsession](https://audiogearobsession.com/)
 
+[audiophilecircuitsleague](http://audiophilecircuitsleague.com/)
+
+[audiospektri](https://www.audiospektri.com/)
+
+[audiothingies](https://www.audiothingies.com/)
+
 [avonsynth](https://avonsynth.com/)
 
+[bartonmusicalcircuits](http://www.bartonmusicalcircuits.com/)
+
 [bastl-instruments](https://bastl-instruments.com/)
+
+[beast-tek](http://www.beast-tek.com/)
+
+[befaco](https://www.befaco.org/)
 
 [bela.io](https://bela.io/)
 
@@ -685,35 +450,113 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [bizmuth-modular](https://bizmuth-modular.com/)
 
+[blacet](http://blacet.com/)
+
 [black-corporation](https://black-corporation.com/)
+
+[blackcatpedals](http://www.blackcatpedals.com/)
+
+[blackmarketmodular](http://blackmarketmodular.com/)
+
+[blindmonkinstruments](https://www.blindmonkinstruments.com/)
+
+[blinkenl](https://www.blinkenl.info/)
 
 [bloodcellsaudio](https://bloodcellsaudio.com/)
 
+[bluelanternstore](https://www.bluelanternstore.com/)
+
+[boredbrainmusic](https://www.boredbrainmusic.com/)
+
 [bragi-modular](https://bragi-modular.com/)
+
+[brokensilicon](http://brokensilicon.com/)
+
+[brownshoesonly](https://www.brownshoesonly.com/)
+
+[bubblesound-instruments](https://www.bubblesound-instruments.com/)
 
 [buchla](https://buchla.com/)
 
 [buchlared-panel](https://buchla.com/red-panel/)
 
+[bugbrand](https://www.bugbrand.co.uk/)
+
+[buranelectrix](http://www.buranelectrix.com/)
+
 [busycircuits](https://busycircuits.com/)
 
 [calsynth](https://calsynth.com/)
 
+[catalystaudio](https://www.catalystaudio.com/)
+
+[catfullofghosts](https://www.catfullofghosts.xyz/)
+
+[catoffsystems](http://www.catoffsystems.com/)
+
 [cavisynth](https://cavisynth.com/)
+
+[cctv](https://www.cctv.fm/)
 
 [centrevillage](https://centrevillage.net/)
 
 [cerealinstruments.reverbsites](https://cerealinstruments.reverbsites.com/)
 
+[cesyg](https://www.cesyg.co.uk/)
+
+[cfmodular](http://www.cfmodular.com/)
+
+[cg-products](http://www.cg-products.de/)
+
+[chd-el](https://www.chd-el.cz/)
+
+[cherokeestreetelectric](http://cherokeestreetelectric.com/)
+
+[circlefade](https://www.circlefade.com/)
+
+[circuitabbey](http://www.circuitabbey.com/)
+
+[circuits](https://www.circuits.la/)
+
 [circuitslices](https://circuitslices.com/)
 
+[clacktronics](http://clacktronics.co.uk/)
+
+[clank](https://www.clank.eu/)
+
+[clsound](http://clsound.com/)
+
+[cluboftheknobs](http://www.cluboftheknobs.com/)
+
 [codex-modulex](https://codex-modulex.com/)
+
+[conjuredcircuits](http://www.conjuredcircuits.com/)
+
+[coppertracesmusic](https://www.coppertracesmusic.com/)
 
 [corsynth](https://corsynth.com/)
 
 [cosmotronic](https://cosmotronic.nl/)
 
+[cpurecords](http://cpurecords.net/)
+
+[cre8audio](https://www.cre8audio.com/)
+
+[critterandguitari](https://www.critterandguitari.com/)
+
+[cs80](http://www.cs80.com/)
+
+[ctrl-mod](https://www.ctrl-mod.com/)
+
+[curetronic](http://curetronic.com/)
+
+[cwejman](https://www.cwejman.net/)
+
+[cylonix](http://www.cylonix.com/)
+
 [darkplacemfg](https://darkplacemfg.com/)
+
+[davidhaillant](http://www.davidhaillant.com/)
 
 [delptronics](https://delptronics.com/)
 
@@ -721,37 +564,123 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [dermannmitdermaschine](https://dermannmitdermaschine.de/)
 
+[detroitunderground](http://detroitunderground.net/)
+
+[dewanatron](http://www.dewanatron.com/)
+
+[dinsync](http://www.dinsync.info/)
+
+[discretesynthesizers](https://www.discretesynthesizers.com/)
+
 [division-6](https://division-6.com/)
 
 [divkidvideo](https://divkidvideo.com/)
 
 [divkidvideo](https://divkidvideo.com/)
 
+[djdesign](https://www.djdesign.com/)
+
 [dmachinery](https://dmachinery.wordpress.com/)
+
+[dnipro-modular](https://www.dnipro-modular.net/)
+
+[dobozdio](http://doboz.audio/)
+
+[doepfer](http://www.doepfer.de/)
+
+[dotred-audio-designs](https://www.dotred-audio-designs.com/)
 
 [dove-audio](https://dove-audio.com/)
 
+[dovemans](https://www.dovemans.com/)
+
+[dpw.se](http://dpw.se/)
+
+[dreadbox-fx](https://www.dreadbox-fx.com/)
+
+[dtronics](http://www.dtronics.nl/)
+
+[e-rm](https://www.e-rm.de/)
+
+[ear-synth](https://www.ear-synth.com/)
+
+[eardrill](https://www.eardrill.com/)
+
+[eatyourguitar](http://www.eatyourguitar.com/)
+
+[elby-designs](https://www.elby-designs.com/)
+
+[electro-smith](https://www.electro-smith.com/)
+
+[electronicmusicworks](https://www.electronicmusicworks.com/)
+
 [elektrofon.no](https://elektrofon.no/)
+
+[eltamusic](https://www.eltamusic.com/)
 
 [emblematic-systems](https://emblematic-systems.net/)
 
 [en.uraltone](https://en.uraltone.com/)
 
+[encoreelectronics](https://www.encoreelectronics.com/)
+
+[endangeredaudioresearch](http://www.endangeredaudioresearch.com/)
+
 [endorphin](https://endorphin.es/)
+
+[endtimesmodular](http://endtimesmodular.com/)
+
+[entrospec](http://entrospec.co.uk/)
+
+[eowave](http://www.eowave.com/)
+
+[epicycloidengr](https://www.epicycloidengr.com/)
+
+[epochmodular](http://www.epochmodular.net/)
 
 [equinoxsynth](https://equinoxsynth.com/)
 
+[ericasynths](https://www.ericasynths.lv/)
+
 [erogenous-tones](https://erogenous-tones.com/)
+
+[errorinstruments](https://www.errorinstruments.com/)
 
 [erthenvar](https://erthenvar.myshopify.com/)
 
 [eurorack-essentials](https://eurorack-essentials.com/)
 
+[eurorackhardware](https://www.eurorackhardware.com/)
+
+[evatontechnologies](https://www.evatontechnologies.com/)
+
+[expert-sleepers](https://www.expert-sleepers.co.uk/)
+
+[expressivee](https://www.expressivee.com/)
+
+[falafular](http://www.falafular.org/)
+
+[fancysynthesis](https://www.fancysynthesis.net/)
+
+[faselunare](https://www.faselunare.com/)
+
 [feedback-modules](https://feedback-modules.myshopify.com/)
+
+[five12](http://www.five12.com/)
+
+[flame.fortschritt-musik](http://flame.fortschritt-musik.de/)
+
+[flightofharmony](http://www.flightofharmony.com/)
+
+[folktek](http://www.folktek.com/)
+
+[fonitronik](http://www.fonitronik.de/)
 
 [foundsound](https://foundsound.com.au/)
 
 [foxfield-instruments](https://foxfield-instruments.com/)
+
+[fpb-synths](http://fpb-synths.de/)
 
 [frap.tools](https://frap.tools/)
 
@@ -759,17 +688,65 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [frequencycentral](https://frequencycentral.co.uk/)
 
+[funkstill](https://www.funkstill.ch/)
+
+[future-retro](http://www.future-retro.com/)
+
+[futuresoundsystems](http://futuresoundsystems.co.uk/)
+
+[g200kg](https://www.g200kg.com/)
+
+[gamechangeraudio](https://www.gamechangeraudio.com/)
+
+[genkiinstruments](https://www.genkiinstruments.com/)
+
+[gezeiten-modular](http://gezeiten-modular.com/)
+
+[gibbondigital](https://www.gibbondigital.com/)
+
 [gieskes](https://gieskes.nl/)
+
+[ginkosynthese](https://www.ginkosynthese.com/)
 
 [glitchart](https://glitchart.com/)
 
+[godsbox](http://godsbox.co.uk/)
+
+[goltsynth](http://goltsynth.com/)
+
+[gotharman](http://www.gotharman.dk/)
+
 [grayscale](https://grayscale.info/)
+
+[greenfacelabs](https://www.greenfacelabs.com/)
+
+[groveaudio](https://www.groveaudio.com/)
+
+[grpsynthesizer](http://www.grpsynthesizer.it/)
 
 [gstormelectronica](https://gstormelectronica.blogspot.com/)
 
+[happynerding](http://www.happynerding.com/)
+
+[hexdevices](https://www.hexdevices.com/)
+
+[hexinverter](http://www.hexinverter.net/)
+
+[hikari-instruments](http://www.hikari-instruments.com/)
+
+[hinton-instruments](http://www.hinton-instruments.co.uk/)
+
 [humbledio](https://humble.audio/)
 
+[ijfritz.byethost4](http://ijfritz.byethost4.com/)
+
+[industrialmusicelectronics](http://www.industrialmusicelectronics.com/)
+
+[innerclocksystems](https://www.innerclocksystems.com/)
+
 [instrumentsofthings](https://instrumentsofthings.com/)
+
+[instruomodular](https://www.instruomodular.com/)
 
 [intellijel](https://intellijel.com/)
 
@@ -777,19 +754,73 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [ishizeno](https://ishizeno.com/)
 
+[itijik](https://www.itijik.com/)
+
+[jolinlab](https://www.jolinlab.com/)
+
+[jomox](https://www.jomox.de/)
+
 [joranalogue](https://joranalogue.com/)
+
+[kaslederfx](https://www.kaslederfx.com/)
 
 [kassu2000](https://kassu2000.blogspot.com/)
 
 [kentonuk](https://kentonuk.com/)
 
+[kilpatrickaudio](https://www.kilpatrickaudio.com/)
+
+[kl-module](http://kl-module.de/)
+
+[klangfeld-synthesizer](http://www.klangfeld-synthesizer.de/)
+
+[klavis](https://www.klavis.com/)
+
 [knob.farm](https://knob.farm/)
 
 [koma-elektronik](https://koma-elektronik.com/)
 
+[konstantlabdio](https://www.konstantlab.audio/)
+
+[korb-modular](https://www.korb-modular.com/)
+
+[krmmusicsystems](https://www.krmmusicsystems.com/)
+
+[l-1](http://l-1.su/)
+
+[ladikdik](http://ladik.ladik.eu/)
+
+[lasesentaysiete](https://www.lasesentaysiete.com/)
+
+[laurentidesynthworks](https://www.laurentidesynthworks.net/)
+
 [lcf-industries](https://lcf-industries.blogspot.com/)
 
+[leaf-audio](https://www.leaf-audio.com/)
+
+[leipzigwest](http://leipzigwest.org/)
+
+[leploop](https://www.leploop.org/)
+
+[liivatera](https://www.liivatera.com/)
+
+[limaflo](https://www.limaflo.com/)
+
+[livestockelectronics](https://www.livestockelectronics.com/)
+
+[livewire-synthesizers](http://www.livewire-synthesizers.com/)
+
+[lividinstruments](http://lividinstruments.com/)
+
+[lnx.madroosterlab](http://lnx.madroosterlab.com/)
+
+[loudestwarning](http://www.loudestwarning.co.uk/)
+
+[lowgain-audio](http://lowgain-audio.com/)
+
 [lumanoise](https://lumanoise.blogspot.com/)
+
+[lunar-experience](http://www.lunar-experience.com/)
 
 [lzxindustries](https://lzxindustries.net/)
 
@@ -801,365 +832,27 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [majella-audio](https://majella-audio.com/)
 
+[makenoisemusic](https://www.makenoisemusic.com/)
+
+[makeproaudio](https://www.makeproaudio.com/)
+
 [makesynthsnotwar](https://makesynthsnotwar.com/)
 
 [manecolabs](https://manecolabs.com/)
 
 [manhattananalog](https://manhattananalog.com/)
 
+[manikin-electronic](https://www.manikin-electronic.com/)
+
 [manikk](https://manikk.com/)
 
 [manticeffects](https://manticeffects.com/)
 
+[masf.figity](http://masf.figity.com/)
+
 [mattsonminimodular](https://mattsonminimodular.com/)
 
-[metabolicdevices](https://metabolicdevices.com/)
-
-[michigansynthworks](https://michigansynthworks.com/)
-
-[millionmachinemarch](https://millionmachinemarch.com/)
-
-[mobulamobular](https://mobulamobular.com/)
-
-[modbap](https://modbap.com/)
-
-[modularsynthlab](https://modularsynthlab.com/)
-
-[mok](https://mok.com/)
-
-[mondesynthesizer](https://mondesynthesizer.com/)
-
-[monome](https://monome.org/)
-
-[motovilo](https://motovilo.com/)
-
-[mrgsynth.tlbflush](https://mrgsynth.tlbflush.org/)
-
-[musicthing](https://musicthing.co.uk/)
-
-[mutable-instruments](https://mutable-instruments.net/)
-
-[mutantmodular](https://mutantmodular.es/)
-
-[nakedboards](https://nakedboards.org/)
-
-[nanomodul](https://nanomodul.es/)
-
-[noisereap](https://noisereap.com/)
-
-[northcoastsynthesis](https://northcoastsynthesis.com/)
-
-[northernlightmodular](https://northernlightmodular.com/)
-
-[nozoid](https://nozoid.com/)
-
-[nsinstruments](https://nsinstruments.com/)
-
-[nw2s](https://nw2s.net/)
-
-[o3audio](https://o3audio.com/)
-
-[olitronik](https://olitronik.com/)
-
-[omsonic](https://omsonic.co.uk/)
-
-[paia](https://paia.com/)
-
-[pittsburghmodular](https://pittsburghmodular.com/)
-
-[polyend](https://polyend.com/)
-
-[prok](https://prok.co.uk/)
-
-[pyxisaudio](https://pyxisaudio.com/)
-
-[quanalog](https://quanalog.com/)
-
-[rabidelephant](https://rabidelephant.com/)
-
-[randomsource](https://randomsource.net/)
-
-[reallyniceaudiowordpress](https://reallyniceaudio.com/wordpress/)
-
-[rebach](https://rebach.eu/)
-
-[recklessexperimentationaudio](https://recklessexperimentationaudio.com/)
-
-[recoveryeffects](https://recoveryeffects.com/)
-
-[retroaktivsynthesizers](https://retroaktivsynthesizers.com/)
-
-[rides-in-the-storm](https://rides-in-the-storm.de/)
-
-[riversynths](https://riversynths.com/)
-
-[rykmodular.bigcartel](https://rykmodular.bigcartel.com/)
-
-[sanpedrolabs](https://sanpedrolabs.com/)
-
-[schenktronics](https://schenktronics.com/)
-
-[schlappiengineering](https://schlappiengineering.com/)
-
-[schottkey](https://schottkey.com/)
-
-[seismic.industries](https://seismic.industries/)
-
-[shift-line](https://shift-line.com/)
-
-[shop.warped-circuits](https://shop.warped-circuits.com/)
-
-[sleepycircuits](https://sleepycircuits.com/)
-
-[somasynths](https://somasynths.com/)
-
-[sonicsmith](https://sonicsmith.com/)
-
-[sonoclast](https://sonoclast.com/)
-
-[soulsbysynths](https://soulsbysynths.com/)
-
-[squarp](https://squarp.net/)
-
-[starling.space](https://starling.space/)
-
-[steamsynth](https://steamsynth.com/)
-
-[steffcorp](https://steffcorp.se/)
-
-[store.extralifeinstruments](https://store.extralifeinstruments.com/)
-
-[store.kitsch-bent](https://store.kitsch-bent.com/)
-
-[store.magpiemodular](https://store.magpiemodular.com/)
-
-[studiohsoftware](https://studiohsoftware.com/)
-
-[syinsi](https://syinsi.com/)
-
-[synamodec](https://synamodec.com/)
-
-[synovatron](https://synovatron.blogspot.com/)
-
-[synthdiyguy.](https://synthdiyguy.wixsite.com/vbmodulardiy)
-
-[synthesizers](https://synthesizers.com/)
-
-[syntonie](https://syntonie.fr/)
-
-[tenderfootelectronics](https://tenderfootelectronics.com/)
-
-[thehordijkmodular](https://thehordijkmodular.blogspot.com/)
-
-[thehumancomparator](https://thehumancomparator.net/)
-
-[toppobrillo](https://toppobrillo.com/)
-
-[tricksmagicshop](https://tricksmagicshop.com/)
-
-[trogotronic](https://trogotronic.com/)
-
-[tsyklon](https://tsyklon.com/)
-
-[tubbutec](https://tubbutec.de/)
-
-[twisted-electrons](https://twisted-electrons.com/)
-
-[u-he](https://u-he.com/)
-
-[vandaal-electronics](https://vandaal-electronics.com/)
-
-[viniciuselectrik](https://viniciuselectrik.com/)
-
-[voicasdio](https://voicas.audio/)
-
-[waldorfmusic](https://waldorfmusic.com/)
-
-[winterbloom](https://winterbloom.com/)
-
-[4mscompany](https://www.4mscompany.com/)
-
-[abstractdata](https://www.abstractdata.biz/)
-
-[addacsystem](https://www.addacsystem.com/)
-
-[afterlifelaboratories](https://www.afterlifelaboratories.com/)
-
-[alrightdevices](https://www.alrightdevices.com/)
-
-[alyseum](https://www.alyseum.com/)
-
-[analogueresearch](https://www.analogueresearch.com/)
-
-[analoguesolutions](https://www.analoguesolutions.com/)
-
-[analoguesystems](https://www.analoguesystems.co.uk/)
-
-[animodule](https://www.animodule.com/)
-
-[anyware-instruments](https://www.anyware-instruments.de/)
-
-[aqaelektrix](https://www.aqaelektrix.com/)
-
-[arrel-audio](https://www.arrel-audio.com/)
-
-[arturia](https://www.arturia.com/)
-
-[atomosynth](https://www.atomosynth.net/)
-
-[audiodamage](https://www.audiodamage.com/)
-
-[audiospektri](https://www.audiospektri.com/)
-
-[audiothingies](https://www.audiothingies.com/)
-
-[befaco](https://www.befaco.org/)
-
-[blindmonkinstruments](https://www.blindmonkinstruments.com/)
-
-[blinkenl](https://www.blinkenl.info/)
-
-[bluelanternstore](https://www.bluelanternstore.com/)
-
-[boredbrainmusic](https://www.boredbrainmusic.com/)
-
-[brownshoesonly](https://www.brownshoesonly.com/)
-
-[bubblesound-instruments](https://www.bubblesound-instruments.com/)
-
-[bugbrand](https://www.bugbrand.co.uk/)
-
-[catalystaudio](https://www.catalystaudio.com/)
-
-[catfullofghosts](https://www.catfullofghosts.xyz/)
-
-[cctv](https://www.cctv.fm/)
-
-[cesyg](https://www.cesyg.co.uk/)
-
-[chd-el](https://www.chd-el.cz/)
-
-[circlefade](https://www.circlefade.com/)
-
-[circuits](https://www.circuits.la/)
-
-[clank](https://www.clank.eu/)
-
-[coppertracesmusic](https://www.coppertracesmusic.com/)
-
-[cre8audio](https://www.cre8audio.com/)
-
-[critterandguitari](https://www.critterandguitari.com/)
-
-[ctrl-mod](https://www.ctrl-mod.com/)
-
-[cwejman](https://www.cwejman.net/)
-
-[discretesynthesizers](https://www.discretesynthesizers.com/)
-
-[djdesign](https://www.djdesign.com/)
-
-[dnipro-modular](https://www.dnipro-modular.net/)
-
-[dotred-audio-designs](https://www.dotred-audio-designs.com/)
-
-[dovemans](https://www.dovemans.com/)
-
-[dreadbox-fx](https://www.dreadbox-fx.com/)
-
-[e-rm](https://www.e-rm.de/)
-
-[ear-synth](https://www.ear-synth.com/)
-
-[eardrill](https://www.eardrill.com/)
-
-[elby-designs](https://www.elby-designs.com/)
-
-[electro-smith](https://www.electro-smith.com/)
-
-[electronicmusicworks](https://www.electronicmusicworks.com/)
-
-[eltamusic](https://www.eltamusic.com/)
-
-[encoreelectronics](https://www.encoreelectronics.com/)
-
-[epicycloidengr](https://www.epicycloidengr.com/)
-
-[ericasynths](https://www.ericasynths.lv/)
-
-[errorinstruments](https://www.errorinstruments.com/)
-
-[eurorackhardware](https://www.eurorackhardware.com/)
-
-[evatontechnologies](https://www.evatontechnologies.com/)
-
-[expert-sleepers](https://www.expert-sleepers.co.uk/)
-
-[expressivee](https://www.expressivee.com/)
-
-[fancysynthesis](https://www.fancysynthesis.net/)
-
-[faselunare](https://www.faselunare.com/)
-
-[funkstill](https://www.funkstill.ch/)
-
-[g200kg](https://www.g200kg.com/)
-
-[gamechangeraudio](https://www.gamechangeraudio.com/)
-
-[genkiinstruments](https://www.genkiinstruments.com/)
-
-[gibbondigital](https://www.gibbondigital.com/)
-
-[ginkosynthese](https://www.ginkosynthese.com/)
-
-[greenfacelabs](https://www.greenfacelabs.com/)
-
-[groveaudio](https://www.groveaudio.com/)
-
-[hexdevices](https://www.hexdevices.com/)
-
-[innerclocksystems](https://www.innerclocksystems.com/)
-
-[instruomodular](https://www.instruomodular.com/)
-
-[itijik](https://www.itijik.com/)
-
-[jolinlab](https://www.jolinlab.com/)
-
-[jomox](https://www.jomox.de/)
-
-[kaslederfx](https://www.kaslederfx.com/)
-
-[kilpatrickaudio](https://www.kilpatrickaudio.com/)
-
-[klavis](https://www.klavis.com/)
-
-[konstantlabdio](https://www.konstantlab.audio/)
-
-[korb-modular](https://www.korb-modular.com/)
-
-[krmmusicsystems](https://www.krmmusicsystems.com/)
-
-[lasesentaysiete](https://www.lasesentaysiete.com/)
-
-[laurentidesynthworks](https://www.laurentidesynthworks.net/)
-
-[leaf-audio](https://www.leaf-audio.com/)
-
-[leploop](https://www.leploop.org/)
-
-[liivatera](https://www.liivatera.com/)
-
-[limaflo](https://www.limaflo.com/)
-
-[livestockelectronics](https://www.livestockelectronics.com/)
-
-[makenoisemusic](https://www.makenoisemusic.com/)
-
-[makeproaudio](https://www.makeproaudio.com/)
-
-[manikin-electronic](https://www.manikin-electronic.com/)
+[mayer-emi](http://mayer-emi.at/)
 
 [mazzatron](https://www.mazzatron.com/)
 
@@ -1167,25 +860,63 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [medigrademodular](https://www.medigrademodular.com/)
 
+[megaohmaudio](http://www.megaohmaudio.com/)
+
+[meluinstruments](http://www.meluinstruments.com/)
+
 [mengqimusic](https://www.mengqimusic.com/)
+
+[metabolicdevices](https://metabolicdevices.com/)
 
 [metalbox](https://www.metalbox.com/)
 
+[metasonix](http://www.metasonix.com/)
+
 [metatronicmods](https://www.metatronicmods.com/)
+
+[metro-modular](http://www.metro-modular.com/)
+
+[mfberlin](http://mfberlin.de/)
+
+[michigansynthworks](https://michigansynthworks.com/)
 
 [midi-hardware](https://www.midi-hardware.com/)
 
 [midiphy](https://www.midiphy.com/)
 
+[millionmachinemarch](https://millionmachinemarch.com/)
+
+[minigorille](http://www.minigorille.com/)
+
 [mmimodular](https://www.mmimodular.com/)
+
+[mobulamobular](https://mobulamobular.com/)
 
 [modalelectronics](https://www.modalelectronics.com/)
 
+[modbap](https://modbap.com/)
+
+[modcan](http://www.modcan.com/)
+
 [modemachines](https://www.modemachines.com/)
+
+[modormusic](http://www.modormusic.com/)
 
 [modulaire-maritime](https://www.modulaire-maritime.com/)
 
+[modular.monokom](http://modular.monokom.org/)
+
+[modularanalog](http://modularanalog.com/)
+
+[modularsynthlab](https://modularsynthlab.com/)
+
 [moffenzeefmodular](https://www.moffenzeefmodular.com/)
+
+[mok](https://mok.com/)
+
+[mondesynthesizer](https://mondesynthesizer.com/)
+
+[monome](https://monome.org/)
 
 [mordax](https://www.mordax.net/)
 
@@ -1195,29 +926,103 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [moseleyinstruments](https://www.moseleyinstruments.com/)
 
+[motovilo](https://motovilo.com/)
+
+[mrgsynth.tlbflush](https://mrgsynth.tlbflush.org/)
+
+[mungo](http://mungo.com.au/)
+
+[musicfromouterspace](http://musicfromouterspace.com/)
+
+[musicthing](https://musicthing.co.uk/)
+
+[mutable-instruments](https://mutable-instruments.net/)
+
+[mutantmodular](https://mutantmodular.es/)
+
 [mysticcircuits](https://www.mysticcircuits.com/)
+
+[naad.tokyo](http://naad.tokyo/)
+
+[nabla-instruments](http://nabla-instruments.com/)
+
+[nakedboards](https://nakedboards.org/)
+
+[nanomodul](https://nanomodul.es/)
+
+[neutron-sound](http://neutron-sound.com/)
+
+[nexusinstruments](http://nexusinstruments.net/)
+
+[nobots](http://www.nobots.co.uk/)
 
 [noiseengineering](https://www.noiseengineering.us/)
 
 [noiselab](https://www.noiselab.se/)
 
+[noisereap](https://noisereap.com/)
+
+[noniandjimJim](http://www.noniandjim.com/Jim/)
+
 [nonlinearcircuits](https://www.nonlinearcircuits.com/)
+
+[northcoastmodularcollective](http://www.northcoastmodularcollective.com/)
+
+[northcoastsynthesis](https://northcoastsynthesis.com/)
+
+[northernlightmodular](https://northernlightmodular.com/)
+
+[nozoid](https://nozoid.com/)
+
+[nsinstruments](https://nsinstruments.com/)
+
+[numericalaudio](http://numericalaudio.com/)
+
+[nw2s](https://nw2s.net/)
+
+[o3audio](https://o3audio.com/)
+
+[oakleysound](http://www.oakleysound.com/)
 
 [ok200](https://www.ok200.ca/)
 
 [olegtron](https://www.olegtron.com/)
 
+[olitronik](https://olitronik.com/)
+
 [olympianoiseco](https://www.olympianoiseco.com/)
 
 [omiindustriies](https://www.omiindustriies.com/)
 
+[omsonic](https://omsonic.co.uk/)
+
+[openmusiclabs](http://www.openmusiclabs.com/)
+
+[orpho](http://www.orpho.de/)
+
+[orthogonaldevices](http://www.orthogonaldevices.com/)
+
+[oscillosaurus](http://oscillosaurus.com/)
+
 [ozoe](https://www.ozoe.fr/)
+
+[paia](https://paia.com/)
 
 [pantalalabs](https://www.pantalalabs.com/)
 
+[paratek](http://www.paratek.org/)
+
+[patchblocks](http://patchblocks.com/)
+
+[patchingpanda](http://patchingpanda.com/)
+
 [percussa](https://www.percussa.com/)
 
+[ph.neutreee](http://ph.neutre.free.fr/)
+
 [pharmasonic](https://www.pharmasonic.jp/)
+
+[pittsburghmodular](https://pittsburghmodular.com/)
 
 [planktonelectronics](https://www.planktonelectronics.com/)
 
@@ -1225,29 +1030,89 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [polaxis](https://www.polaxis.be/)
 
+[polyend](https://polyend.com/)
+
 [praxis-electronics](https://www.praxis-electronics.com/)
+
+[prok](https://prok.co.uk/)
+
+[pulplogic](http://pulplogic.com/)
 
 [pulsesynthesizers](https://www.pulsesynthesizers.com/)
 
+[pyxisaudio](https://pyxisaudio.com/)
+
+[qosmomodular](http://www.qosmomodular.com/)
+
+[quanalog](https://quanalog.com/)
+
 [qubitelectronix](https://www.qubitelectronix.com/)
+
+[quicco](http://quicco.co.jp/)
+
+[rabidelephant](https://rabidelephant.com/)
+
+[radicalfrequencies](http://www.radicalfrequencies.com/)
 
 [radikaltechnologies](https://www.radikaltechnologies.com/)
 
 [rakits](https://www.rakits.co.uk/)
 
+[randomsource](https://randomsource.net/)
+
+[rarewaves](http://rarewaves.net/)
+
+[ratkingmodular](http://ratkingmodular.com/)
+
+[razmasynth](http://www.razmasynth.com/)
+
+[reallyniceaudiowordpress](https://reallyniceaudio.com/wordpress/)
+
+[rebach](https://rebach.eu/)
+
 [rebeltech](https://www.rebeltech.org/)
 
+[recklessexperimentationaudio](https://recklessexperimentationaudio.com/)
+
+[recoveryeffects](https://recoveryeffects.com/)
+
 [resynthesis](https://www.resynthesis.shop/)
+
+[retroaktivsynthesizers](https://retroaktivsynthesizers.com/)
 
 [retrokits](https://www.retrokits.com/)
 
 [reverselandfill](https://www.reverselandfill.org/)
 
+[rides-in-the-storm](https://rides-in-the-storm.de/)
+
 [ritualelectronics](https://www.ritualelectronics.com/)
+
+[riversynths](https://riversynths.com/)
 
 [robaux](https://www.robaux.io/)
 
+[rossum-electro](http://www.rossum-electro.com/)
+
+[rykmodular.bigcartel](https://rykmodular.bigcartel.com/)
+
+[sanpedrolabs](https://sanpedrolabs.com/)
+
+[schenktronics](https://schenktronics.com/)
+
+[schenkwork.storenvy](http://schenkwork.storenvy.com/)
+
+[schippmann-music](http://www.schippmann-music.com/)
+
+[schlappiengineering](https://schlappiengineering.com/)
+
+[schottkey](https://schottkey.com/)
+
 [seamoss](https://www.seamoss.si/)
+
+[segmentum.space](http://segmentum.space/)
+
+[seismic.industries](https://seismic.industries/)
 
 [sequential](https://www.sequential.com/)
 
@@ -1255,13 +1120,25 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [serpensmodular](https://www.serpensmodular.com/)
 
+[sfeodioee](http://sfeo.audio.free.fr/)
+
+[shakmatmodular](http://www.shakmatmodular.com/)
+
+[shift-line](https://shift-line.com/)
+
 [shockelectronix](https://www.shockelectronix.com/)
 
+[shop.warped-circuits](https://shop.warped-circuits.com/)
+
 [siammodular](https://www.siammodular.com/)
+
+[signalarts](http://www.signalarts.ca/)
 
 [sismosynths](https://www.sismosynths.pt/)
 
 [skullandcircuits](https://www.skullandcircuits.com/)
+
+[sleepycircuits](https://sleepycircuits.com/)
 
 [slightlynasty](https://www.slightlynasty.com/)
 
@@ -1271,9 +1148,19 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [sognage](https://www.sognage.com/)
 
+[somasynths](https://somasynths.com/)
+
 [sonic-potions](https://www.sonic-potions.com/)
 
+[sonicsmith](https://sonicsmith.com/)
+
+[sonoclast](https://sonoclast.com/)
+
 [sonocurrent](https://www.sonocurrent.com/)
+
+[soulsbysynths](https://soulsbysynths.com/)
+
+[sound-force](http://sound-force.nl/)
 
 [sound-machines](https://www.sound-machines.it/)
 
@@ -1283,27 +1170,79 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [soundtronics](https://www.soundtronics.co.uk/)
 
+[sputnik-modular](http://sputnik-modular.com/)
+
+[squarp](https://squarp.net/)
+
 [sssrlabs](https://www.sssrlabs.com/)
+
+[st-modular](http://www.st-modular.com/)
+
+[starling.space](https://starling.space/)
+
+[steadystatefate](http://www.steadystatefate.com/)
+
+[steamsynth](https://steamsynth.com/)
+
+[steffcorp](https://steffcorp.se/)
+
+[stemmodular](http://www.stemmodular.com/)
 
 [stereoping](https://www.stereoping.com/)
 
+[stgsoundlabs](http://www.stgsoundlabs.com/)
+
+[store.extralifeinstruments](https://store.extralifeinstruments.com/)
+
+[store.kitsch-bent](https://store.kitsch-bent.com/)
+
+[store.magpiemodular](https://store.magpiemodular.com/)
+
 [strangeelectronic](https://www.strangeelectronic.com/)
+
+[strangesci](http://www.strangesci.com/)
 
 [studioelectronics](https://www.studioelectronics.com/)
 
+[studiohsoftware](https://studiohsoftware.com/)
+
+[sub-continentaldd](http://sub-continental.com/dd/)
+
+[subconsciousrecords](http://www.subconsciousrecords.com/)
+
 [sunsineaudio](https://www.sunsineaudio.com/)
+
+[supercriticalsynthesizers](http://supercriticalsynthesizers.com/)
 
 [supersynthesis](https://www.supersynthesis.com/)
 
 [svarogaudio](https://www.svarogaudio.com/)
 
+[syinsi](https://syinsi.com/)
+
+[synamodec](https://synamodec.com/)
+
+[synovatron](https://synovatron.blogspot.com/)
+
 [synquanon](https://www.synquanon.com/)
 
 [synth-werk](https://www.synth-werk.com/)
 
+[synthdiyguy.](https://synthdiyguy.wixsite.com/vbmodulardiy)
+
+[synthesizers](https://synthesizers.com/)
+
+[synthmallifm](http://synthmall.com/ifm)
+
 [synthrotek](https://www.synthrotek.com/)
 
 [synthtech](https://www.synthtech.com/)
+
+[synthwerks](http://www.synthwerks.com/)
+
+[syntonie](https://syntonie.fr/)
+
+[system80](http://system80.net/)
 
 [t-rex-effects](https://www.t-rex-effects.com/)
 
@@ -1313,7 +1252,15 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [tastychips](https://www.tastychips.nl/)
 
+[tellun](http://www.tellun.com/)
+
+[tenderfootelectronics](https://tenderfootelectronics.com/)
+
 [tesseractmodular](https://www.tesseractmodular.com/)
+
+[thehordijkmodular](https://thehordijkmodular.blogspot.com/)
+
+[thehumancomparator](https://thehumancomparator.net/)
 
 [thonk](https://www.thonk.co.uk/)
 
@@ -1321,49 +1268,103 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [timorozendal](https://www.timorozendal.nl/)
 
+[tiptopaudio](http://tiptopaudio.com/)
+
 [tmsynthesis](https://www.tmsynthesis.com/)
+
+[tokyo-tape-music-center](http://tokyo-tape-music-center.xyz/)
+
+[toppobrillo](https://toppobrillo.com/)
 
 [touellskouarn](https://www.touellskouarn.fr/)
 
+[transientmodules](http://transientmodules.com/)
+
 [transistorsoundslabs](https://www.transistorsoundslabs.com/)
+
+[tricksmagicshop](https://tricksmagicshop.com/)
+
+[trogotronic](https://trogotronic.com/)
+
+[trouby.bplaced](http://trouby.bplaced.net/)
+
+[tsyklon](https://tsyklon.com/)
+
+[tubbutec](https://tubbutec.de/)
 
 [tubeohm](https://www.tubeohm.com/)
 
+[twisted-electrons](https://twisted-electrons.com/)
+
 [twohp](https://www.twohp.com/)
+
+[tymkrs](http://tymkrs.com/)
+
+[u-he](https://u-he.com/)
+
+[vandaal-electronics](https://vandaal-electronics.com/)
 
 [vbrazilsystems](https://www.vbrazilsystems.com/)
 
+[verboselectronics](http://www.verboselectronics.com/)
+
 [vermona](https://www.vermona.com/)
+
+[viniciuselectrik](https://viniciuselectrik.com/)
 
 [visiblesignals](https://www.visiblesignals.net/)
 
+[voicasdio](https://voicas.audio/)
+
 [voltatone](https://www.voltatone.com/)
 
+[vpme](http://vpme.de/)
+
 [vult-dsp](https://www.vult-dsp.com/)
+
+[waldorfmusic](https://waldorfmusic.com/)
+
+[warmstarelectronics](http://warmstarelectronics.com/)
 
 [wavefonix](https://www.wavefonix.com/)
 
 [wavelicker](https://www.wavelicker.com/)
 
+[westoaklandmusicsystems](http://www.westoaklandmusicsystems.com/)
+
 [westonaudio](https://www.westonaudio.com/)
 
 [whimsicalraps](https://www.whimsicalraps.com/)
 
+[wiard](http://www.wiard.com/)
+
+[wiesolator](http://wiesolator.de/)
+
+[winter-modular](http://winter-modular.com/)
+
+[winterbloom](https://winterbloom.com/)
+
 [worngelectronics](https://www.worngelectronics.com/)
 
+[www2.thisisnotrocketscience](http://www2.thisisnotrocketscience.nl/)
+
+[x1l3.bigcartel](https://x1l3.bigcartel.com/)
+
+[xaocdevices](http://xaocdevices.com/)
+
+[xn--klangbaukln-zfb](https://xn--klangbaukln-zfb.de/)
+
 [xodes](https://www.xodes.net/)
+
+[xor-electronics](https://xor-electronics.com/)
 
 [xoxomodular](https://www.xoxomodular.com/)
 
 [yorkmodular](https://www.yorkmodular.co.uk/)
 
+[yusynth](http://www.yusynth.net/)
+
 [zetaohm](https://www.zetaohm.com/)
-
-[x1l3.bigcartel](https://x1l3.bigcartel.com/)
-
-[xn--klangbaukln-zfb](https://xn--klangbaukln-zfb.de/)
-
-[xor-electronics](https://xor-electronics.com/)
 
 [zlobmodular](https://zlobmodular.com/)
 
