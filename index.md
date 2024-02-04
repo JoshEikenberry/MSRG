@@ -334,6 +334,10 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Synth Modes](https://synthmodes.com/)
 
+[Kammerl Custom Clouds Firmware](https://www.kammerl.de/audio/clouds/)
+
+[Clouds Parasite](https://mqtthiqs.github.io/parasites/clouds.html)
+
 
 ---
 
