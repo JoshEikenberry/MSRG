@@ -1466,6 +1466,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [Ishkur's Guide to Electronic Music](http://music.ishkur.com/)
 
+[Lyonheart Music-Making Resources](https://lyonheart.us/music-making/)
+
 
 
 
