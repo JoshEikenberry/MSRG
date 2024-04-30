@@ -1400,6 +1400,8 @@ Sure. Github isn't the most user friendly interface. Feel free to get in touch a
 
 [New York Synth Library](https://synthlibrarynyc.org/Library)
 
+[Knobulism](https://www.knobulism.com/)
+
 
 ---
 
